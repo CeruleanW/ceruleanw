@@ -9,7 +9,7 @@
 
 ### I'm a Web & Mobile Developer 👨🏻‍💻, as well as a Bibliophile 📖
 
-![Banner: Asher Yang, Web Developer, MongoDb, Express.js, React.js, Node.js, Java, SQL](https://media.githubusercontent.com/media/CeruleanW/profile/master/banner.png)
+![Banner: Asher Yang, Web Developer, MongoDb, Express.js, React.js, Node.js, Java, SQL](https://media.githubusercontent.com/media/CeruleanW/ceruleanw/master/banner.png)
 
 I enjoy building software products which can make our lives easier, using React, JavaScript, Java, or whatever I can.  
 
