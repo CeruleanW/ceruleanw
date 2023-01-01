@@ -17,10 +17,10 @@ I enjoy building software products which can make our lives easier, using React,
 
 ## Projects
 
+- [Idea Dropper (in progress)](https://idea-dropper.vercel.app/) - A web app for putting your ideas in boxes and draw them randomly
 - [Plant Light Meter (working title, private)](https://github.com/CeruleanW/plant-light-meter) - A mobile app measures and displays the light intensity to help you find the right location for your indoor plants
 - [Google Photos Search Enhancer](https://github.com/CeruleanW/google-photos-search-enhancer) - A SPA to enable Google Photos users to search phrases more than general keywords in the descriptions and filenames. Supports fuzzy search
 - [Landing Page - EXP | CON](https://github.com/CeruleanW/landing-page-example) - A responsive landing page rich with graphic effects and animations
-- [Idea Dropper (in progress)](https://github.com/CeruleanW/idea-dropper) - A web app for putting your ideas in boxes and draw them randomly
 - [Church Education Website](https://github.com/CeruleanW/church-eduction-website) - A content-mangaed site for the Sunday school of Zion Alliance Church
 
 
